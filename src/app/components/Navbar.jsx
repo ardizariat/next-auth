@@ -5,7 +5,6 @@ import styles from './style.css'
 
 const Navbar = () => {
     const { data: session } = useSession()
-    console.log({ session })
 
     return (
         <div className={styles.navbar}>
