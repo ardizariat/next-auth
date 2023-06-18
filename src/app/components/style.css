@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar li {
+    padding: 0 15px;
+}
+
+.navbar li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar .login {
+    margin-left: auto;
+}
+
+.navbar .login a {
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}

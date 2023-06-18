@@ -1,0 +1,15 @@
+eslint.json
+.prettierrc
+package.json
+package-lock.json
+.eslintrc.json
+tsconfig.json
+logs
+CHANGELOG.md
+readme.md
+nodemon.json
+dist
+build
+public
+node_modules
+.next
